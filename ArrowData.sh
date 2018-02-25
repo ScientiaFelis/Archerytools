@@ -3,9 +3,9 @@
 ###This Function calculates the weight of the arrow and the FOC if balance point is provided##
 echo ""
 echo "Calculates arrow weight, grains per pound and FOC based on provided Arrow data."
-echo "Default values are within parentesis. Plean change to your arrow's measures."
+echo "Default values are within parentesis. Please change to your arrow's and bows measures."
 echo ""
-read -p "Arrow length (Obligatory): " Inch
+read -p "Arrow length Inches (Obligatory): " Inch
 read -p "Grains per Inch (Obligatory): " GrainPIn
 read -p "Nr of vanes (4): " Vanes
 read -p "Vane weight (2.3 Grains): " VaneW
