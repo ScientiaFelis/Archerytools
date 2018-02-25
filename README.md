@@ -8,3 +8,4 @@ Add files to e.g. your `$HOME/bin/` folder. Make it executable:
 
 The script will ask you for the data of your arrow and bow.
 
+--------------------------------------------------------
